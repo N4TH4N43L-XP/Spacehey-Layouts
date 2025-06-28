@@ -1,4 +1,6 @@
-<style>
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
 
 @import url('https://unpkg.com/7.css');
 }  
@@ -23,5 +25,3 @@ body {
    height: 500px; width: 550px;
    border: 2px solid #000000;
 }
-
-</style>
